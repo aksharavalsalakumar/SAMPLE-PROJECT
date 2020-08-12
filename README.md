@@ -1,5 +1,5 @@
 # SAMPLE-PROJECT
-SETUP THE PROJECT
+#SETUP THE PROJECT
 1 - create a virtual environment and activate it .then install required packages.
 2 - create a django project
     django-admin startproject project_name
